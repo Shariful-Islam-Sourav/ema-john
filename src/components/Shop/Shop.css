@@ -1,0 +1,21 @@
+.shop {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  width: 90%;
+  margin: auto;
+}
+.products {
+  margin-left: 2em;
+}
+.search {
+  background: rgb(66, 66, 66);
+  padding: 15px;
+  text-align: center;
+}
+ .search input {
+  width: 80%;
+  margin: auto;                                     
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+}
